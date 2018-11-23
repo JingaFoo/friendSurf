@@ -1,0 +1,19 @@
+{
+  "name": "friendsurf",
+  "version": "1.0.0",
+  "description": "Social gathering platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingaFoo/friendSurf.git"
+  },
+  "author": "calvin mwariama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JingaFoo/friendSurf/issues"
+  },
+  "homepage": "https://github.com/JingaFoo/friendSurf#readme"
+}
